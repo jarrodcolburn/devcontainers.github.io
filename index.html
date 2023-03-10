@@ -4,6 +4,12 @@ layout: default
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('service-worker.js')
+  }
+</script>
+
 
 <div class="header-container bg-primary jumbotron">
     <div class="container">
