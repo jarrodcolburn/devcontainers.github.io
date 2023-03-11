@@ -323,3 +323,18 @@
   contact: https://github.com/sonikro/devcontainer-features/issues
   repository: https://github.com/sonikro/devcontainer-features
   ociReference: ghcr.io/sonikro/devcontainer-features
+- name: Features by JasonTheDeveloper
+  maintainer: JasonTheDeveloper
+  contact: https://github.com/JasonTheDeveloper/features/issues
+  repository: https://github.com/JasonTheDeveloper/features
+  ociReference: ghcr.io/jasonthedeveloper/features
+- name: Templates by John Muchovej
+  maintainer: John Muchovej
+  contact: https://github.com/jmuchovej/devcontainers/issues
+  repository: https://github.com/jmuchovej/devcontainers
+  ociReference: ghcr.io/jmuchovej/templates
+- name: Features by dasiths
+  maintainer: Dasith Wijes
+  contact: https://dasith.me
+  repository: https://github.com/dasiths/devcontainer-features
+  ociReference: ghcr.io/dasiths/devcontainer-features
